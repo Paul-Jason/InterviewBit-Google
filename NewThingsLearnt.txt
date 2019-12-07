@@ -1,0 +1,3 @@
+1. 'in' list or 'not in' list
+2. python doesn't have inbuilut ds for tree and linked list - read somewere?
+3. 
